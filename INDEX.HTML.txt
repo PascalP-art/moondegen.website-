@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MoonDegen - The Ultimate Degen Coin</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #0d0f15;
+color: #ffffff;
+text-align: center;
+}
+header {
+background: linear-gradient(90deg, #ff8800, #ff0077);
+padding: 20px;
+}
+header h1 {
+margin: 0;
+font-size: 2.5em;
+}
+nav a {
+color: #fff;
+text-decoration: none;
+margin: 0 15px;
+font-size: 1.2em;
+}
+nav a:hover {
+text-decoration: underline;
+}
+section {
+padding: 40px 20px;
+}
+.cta {
+margin: 20px 0;
+padding: 15px 30px;
+background-color: #ff0077;
+color: #fff;
+font-size: 1.2em;
+text-transform: uppercase;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+.cta:hover {
+background-color: #ff8800;
+}
+footer {
+background-color: #1b1f29;
+padding: 20px;
+font-size: 0.9em;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Welcome to MoonDegen</h1>
+<p>The ultimate crypto for degens 🚀</p>
+<nav>
+<a href="#about">About</a>
+<a href="#tokenomics">Tokenomics</a>
+<a href="#roadmap">Roadmap</a>
+<a href="#join">Join Us</a>
+</nav>
+</header>
+<section id="about">
+<h2>About MoonDegen</h2>
+<p>MoonDegen is the coin for those who dare to dream big, take risks, and YOLO into the future. Built for the boldest crypto traders, MoonDegen combines high rewards with the thrill of the game.</p>
+</section>
+<section id="tokenomics">
+<h2>Tokenomics</h2>
+<ul>
+<li><strong>Total Supply:</strong> 1,000,000,000 $MDEG</li>
+<li><strong>Transaction Fee:</strong> 3% Buy, 3% Sell</li>
+<li><strong>Distribution:</strong> 
+<ul>
+<li>40% Public Sale</li>
+<li>20% Liquidity Pool</li>
+<li>20% Marketing & Development</li>
+<li>10% Team</li>
+<li>10% Rewards</li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="roadmap">
+<h2>Roadmap</h2>
+<ol>
+<li><strong>Phase 1:</strong> Token Launch, Website, Initial Marketing</li>
+<li><strong>Phase 2:</strong> Community Building, Partnerships, Listings on Decentralized Exchanges</li>
+<li><strong>Phase 3:</strong> CEX Listings, NFT Integration, Major Marketing Push</li>
+<li><strong>Phase 4:</strong> Metaverse Integration, Expansion to Gaming and Beyond</li>
+</ol>
+</section>
+<section id="join">
+<h2>Join the MoonDegen Community</h2>
+<p>Stay updated on our latest news and be part of the most exciting crypto community!</p>
+<button class="cta">Join Telegram</button>
+<button class="cta">Follow on Twitter</button>
+</section>
+<footer>
+<p>&copy; 2024 MoonDegen. All rights reserved.</p>
+<p>Disclaimer: MoonDegen is not financial advice. Please trade responsibly.</p>
+</footer>
+</body>
+</html>
